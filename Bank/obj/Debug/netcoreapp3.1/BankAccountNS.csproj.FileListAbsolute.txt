@@ -1,0 +1,12 @@
+C:\Users\Vivek Kumar\source\repos\Bank\bin\Debug\netcoreapp3.1\BankAccountNS.exe
+C:\Users\Vivek Kumar\source\repos\Bank\bin\Debug\netcoreapp3.1\BankAccountNS.deps.json
+C:\Users\Vivek Kumar\source\repos\Bank\bin\Debug\netcoreapp3.1\BankAccountNS.runtimeconfig.json
+C:\Users\Vivek Kumar\source\repos\Bank\bin\Debug\netcoreapp3.1\BankAccountNS.runtimeconfig.dev.json
+C:\Users\Vivek Kumar\source\repos\Bank\bin\Debug\netcoreapp3.1\BankAccountNS.dll
+C:\Users\Vivek Kumar\source\repos\Bank\bin\Debug\netcoreapp3.1\BankAccountNS.pdb
+C:\Users\Vivek Kumar\source\repos\Bank\obj\Debug\netcoreapp3.1\BankAccountNS.AssemblyInfoInputs.cache
+C:\Users\Vivek Kumar\source\repos\Bank\obj\Debug\netcoreapp3.1\BankAccountNS.AssemblyInfo.cs
+C:\Users\Vivek Kumar\source\repos\Bank\obj\Debug\netcoreapp3.1\BankAccountNS.csproj.CoreCompileInputs.cache
+C:\Users\Vivek Kumar\source\repos\Bank\obj\Debug\netcoreapp3.1\BankAccountNS.dll
+C:\Users\Vivek Kumar\source\repos\Bank\obj\Debug\netcoreapp3.1\BankAccountNS.pdb
+C:\Users\Vivek Kumar\source\repos\Bank\obj\Debug\netcoreapp3.1\BankAccountNS.genruntimeconfig.cache
